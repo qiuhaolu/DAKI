@@ -2,7 +2,7 @@
 code for [Parameter-efficient domain knowledge integration from multiple sources for biomedical pre-trained language models](https://aclanthology.org/2021.findings-emnlp.325/)
 
 
-'''
+```
 @inproceedings{lu-etal-2021-parameter-efficient,
     title = "Parameter-Efficient Domain Knowledge Integration from Multiple Sources for Biomedical Pre-trained Language Models",
     author = "Lu, Qiuhao  and
@@ -21,4 +21,4 @@ code for [Parameter-efficient domain knowledge integration from multiple sources
     doi = "10.18653/v1/2021.findings-emnlp.325",
     pages = "3855--3865",
 }
-'''
+```
