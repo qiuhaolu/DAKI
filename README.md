@@ -7,7 +7,7 @@ code for [Parameter-efficient domain knowledge integration from multiple sources
 #### asd
 
 
-## Pretrain Your Own Adapters
+## Train Your Own Knowledge Adapters
 
 
 ## Data
