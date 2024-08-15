@@ -6,4 +6,4 @@ __pycache__/
 UMLS/
 model_ori.py
 **/runs/
-
+**/run_model_sep.py
