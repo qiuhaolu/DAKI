@@ -2,6 +2,11 @@
 
 This repository contains code and pre-trained knowledge adapters for the paper **"[Parameter-efficient domain knowledge integration from multiple sources for biomedical pre-trained language models](https://aclanthology.org/2021.findings-emnlp.325/) "**. The framework uses knowledge-specific adapters to enhance the performance of pre-trained language models (e.g., ALBERT, BERT, etc.) on biomedical NLP tasks. These adapters are pre-trained using different biomedical knowledge sources and can be integrated with BERT-like models in a parameter-efficient way.
 
+
+![DAKI Architecture](assets/daki_architecture.png)
+
+_Figure: DAKI architecture._
+
 ## Repository Structure
 
 - `MEDIQA-2019/`, `MEDNLI/`, `NCBI/`, `TRECQA-2017/`, `i2b2_2006/`  
