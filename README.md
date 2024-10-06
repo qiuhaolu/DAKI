@@ -11,7 +11,7 @@ This repository contains code and pre-trained knowledge adapters for the paper *
   Pre-trained adapter models for knowledge sources like UMLS, Wikipedia diseases, and semantic groupings.
 
 - `model.py`, `data.py`  
-  Core model and data handling logic for training and evaluating PLMs with adapters.
+  Core model and data handling logic for training adapters.
 
 - `train_disease.py`, `train_graph.py`, `train_sgrouping.py`  
   Scripts to pre-train adapters with different domain knowledge sources.
@@ -52,7 +52,7 @@ They are stored in `pretrained_adaptermodel/` and integrated into selective tran
 
 ## Training New Adapters
 
-To train adapters for new domain knowledge, you can refer to the scripts:
+To train adapters for new domain knowledge, you can refer to the following scripts as examples:
 
 - `train_disease.py`
 - `train_graph.py`
